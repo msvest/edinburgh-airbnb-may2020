@@ -21,7 +21,7 @@ Note: This project forms part of Udacity's Data Scientist Nanodegree programme.
 
 ## Files
 
-* 'listings.csv' contains data on Edinburgh AirBnB properties, as compiled on 27th May, 2020.
+* 'listings.csv.gz' contains data on Edinburgh AirBnB properties, as compiled on 27th May, 2020.
 * 'AirBnB Edinburgh Data Investigation.ipynb' contains all of the code investigating the data.
 
 ## Summary of Results

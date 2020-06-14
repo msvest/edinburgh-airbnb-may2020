@@ -15,7 +15,7 @@ Only standard anaconda python libraries are used, namely:
 
 This project investigates AirBnB Edinburgh data, investigating the factors that affect the price and popularity of listed properties.
 
-Specifically, I look at neighbourhood, reviews, and the host, to see what effect they have on property price and popularity. I also make a Linear Regression model to see if there are other factors that influence this more.
+Specifically, I look at neighbourhood, reviews, and the host, to see what effect they have on property price and popularity. I also make a Linear Regression model to see if there are other factors that influence price and popularity.
 
 Note: This project forms part of Udacity's Data Scientist Nanodegree programme.
 

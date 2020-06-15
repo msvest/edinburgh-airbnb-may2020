@@ -15,9 +15,30 @@ Only standard anaconda python libraries are used, namely:
 
 This project investigates AirBnB Edinburgh data, investigating the factors that affect the price and popularity (number of bookings in the next 90 days) of listed properties.
 
-Specifically, I look at neighbourhood, reviews, and the host, to see what effect they have on property price and popularity. I also make a Linear Regression model to see if there are other factors that influence price and popularity.
-
 Note: This project forms part of Udacity's Data Scientist Nanodegree programme.
+
+## Process and Methodology
+Below is the process followed in the analysis.
+
+### Business Understanding
+I want to analyse the factors that affect the price and popularity of Edinburgh listings on Airbnb. Specifically,
+I want to look at the following four questions:
+1. How much of an effect does neighbourhood have?
+2. How much of an effect do reviews have?
+3. How much of an effect do host qualities have?
+4. Can a machine learning model be effectively used to see what other attributes have an effect?
+
+### Data Understanding
+This process is done at the beginning of the project (section 2. Investigating Target Columns), and repeated for all 4 business questions. The most effective columns for the question at hand are investigated and evaluated.
+
+### Prepare Data
+Like the Data Understanding step, preparing the data is done at the beginning of the project for target columns, and repeated for each new question as further columns need to be pulled into the analysis. Missing values are filled in, columns are converted into a usable form, and features are engineered.
+
+### Data Modeling
+This step is processed separately for each business question. In the case of the first three, this takes the form of gathering statistics and individual linear regression charts. For the fourth question, this takes the form of creating a full Linear Regression model.
+
+### Evaluate the results
+This step is carried out at the end of every business question step. The modelled data is evaluated to find correllations, and the Linear Regression model's performance is assessed to see if it can provide useful insight.
 
 ## Files
 
